@@ -11,8 +11,8 @@ if (!isset($_SESSION["usuario"])) {
 ?>
 
 <head>
-    <title>DOM</title>
-    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+    <title>CAB</title>
+    <link rel="stylesheet" href="css/inicio.css" type="text/css" media="screen" />
 </head>
 
 <body>
