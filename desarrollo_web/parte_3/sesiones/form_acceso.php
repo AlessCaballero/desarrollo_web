@@ -35,7 +35,7 @@ if (isset($_POST["enviar"])){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/acceso.css">
-    <title>Diiego</title>
+    <title>ADSO</title>
 </head>
 <body>
     <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
