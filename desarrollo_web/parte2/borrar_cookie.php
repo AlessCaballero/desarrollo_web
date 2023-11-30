@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-    setcookie("micookie","Los datos de la cookie",time()-1);
+    setcookie("mycookie","datos de la cookie",time()-1);
     ?>
 </body>
 </html>
