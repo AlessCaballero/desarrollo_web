@@ -11,7 +11,6 @@ if(mysqli_connect_errno()){
     echo "La conexion ta mala";
     exit();
 }
-
 mysqli_select_db($conexion,$db_nombre) or die ("No se encontro la base de datos =D");
 
 mysqli_close($conexion);
